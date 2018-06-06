@@ -7,6 +7,7 @@ prefixdir = ${prefix}
 
 zm_headers = \
 	include/common/zm_common.h \
+	include/list/zm_scdlist.h \
 	include/lock/zm_lock.h \
 	include/lock/zm_lock_types.h \
 	include/lock/zm_ticket.h \
